@@ -18,7 +18,7 @@ Antes de ejecutar este proyecto, asegúrate de tener lo siguiente:
 ## Cómo Ejecutar el Proyecto Localmente
 1. **Clona el Repositorio**: Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/
+   git clone https://github.com/tu-usuario/Dise-o-front-end-LandigPage.git
    Abrir el archivo HTML :
 Puedes abrir el archivo index.htmldirectamente en tu navegador web arrastrándolo o usando el menú de archivo en tu navegador (Abrir archivo).
    
