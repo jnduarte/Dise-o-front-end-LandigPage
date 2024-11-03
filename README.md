@@ -1,1 +1,22 @@
+# Landing Page - Caroline Sada
+
+Este repositorio contiene el código fuente de una landing page diseñada para **Caroline Sada**, una influencer financiera que desea automatizar la recolección de leads para mejorar su curso digital sobre finanzas. El objetivo de esta landing page es captar el interés de los visitantes y facilitar el registro mediante un formulario interactivo, diseñado para ser responsivo y visualmente atractivo.
+El proyecto está estructurado de la siguiente manera:
+- **Untitled.html**: Archivo principal que contiene la estructura HTML de la landing page.
+- **Estilo.css**: Archivo de estilos CSS, donde se definen los estilos y diseño visual de la página.
+- **javascripts.js**: Archivo JavaScript con funcionalidades adicionales, como la temporización de la aparición del formulario y mensajes de confirmación.
+- **README.md**: Documento de descripción del proyecto, instrucciones de instalación y ejecución.
+## Características de la Landing Page
+1. **Diseño Responsivo**: Adaptación automática a diferentes tamaños de pantalla, mejorando la experiencia de usuario en dispositivos móviles, tablets y computadoras.
+2. **Formulario de Registro**: Formulario para recolectar el nombre y correo electrónico de los usuarios, con validación y mensajes de confirmación.
+3. **Aparición Temporizada del Formulario**: El formulario aparece automáticamente en la página después de un breve retraso para captar la atención del usuario.
+4. **Animaciones**: Pequeñas animaciones y efectos visuales para mejorar la interactividad y atractivo de la página.
+- **Información Adicional ARCHIVOS PDF SPRINT1**:
 [blacklog_s1.pdf](https://github.com/user-attachments/files/17610499/blacklog_s1.pdf)
+[Roadmap_s1.pdf](https://github.com/user-attachments/files/17610510/Roadmap_s1.pdf)
+[Maquetacion_S1.pdf](https://github.com/user-attachments/files/17610511/Maquetacion_S1.pdf)
+[Reporte_Tecnico_S1.pdf](https://github.com/user-attachments/files/17610512/Reporte_Tecnico_S1.pdf)
+ **Información Adicional ARCHIVOS PDF SPRINT2**:
+  [Backlog_s2.pdf](https://github.com/user-attachments/files/17610515/Backlog_s2.pdf)
+[roadmap_s2.pdf](https://github.com/user-attachments/files/17610514/roadmap_s2.pdf)
+[Reporte Técnico del Avance 2 en la Landing Page para Caroline Sada.pdf](https://github.com/user-attachments/files/17610513/Reporte.Tecnico.del.Avance.2.en.la.Landing.Page.para.Caroline.Sada.pdf)
