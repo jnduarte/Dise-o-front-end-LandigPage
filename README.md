@@ -31,3 +31,10 @@ Puedes abrir el archivo index.htmldirectamente en tu navegador web arrastrándol
   [Backlog_s2.pdf](https://github.com/user-attachments/files/17610515/Backlog_s2.pdf)
 [roadmap_s2.pdf](https://github.com/user-attachments/files/17610514/roadmap_s2.pdf)
 [Reporte Técnico del Avance 2 en la Landing Page para Caroline Sada.pdf](https://github.com/user-attachments/files/17610513/Reporte.Tecnico.del.Avance.2.en.la.Landing.Page.para.Caroline.Sada.pdf)
+ **Información Adicional ARCHIVOS PDF SPRINT3**:
+[Backlog3.pdf](https://github.com/user-attachments/files/17611074/Backlog3.pdf)
+[roadmap3.pdf](https://github.com/user-attachments/files/17611077/roadmap3.pdf)
+[Reporte Técnico del Avance 3.pdf](https://github.com/user-attachments/files/17611080/Reporte.Tecnico.del.Avance.3.pdf)
+[SP3_pruebas del diseño responsivo con Mobile.pdf](https://github.com/user-attachments/files/17611082/SP3_pruebas.del.diseno.responsivo.con.Mobile.pdf)
+
+
