@@ -11,6 +11,17 @@ El proyecto está estructurado de la siguiente manera:
 2. **Formulario de Registro**: Formulario para recolectar el nombre y correo electrónico de los usuarios, con validación y mensajes de confirmación.
 3. **Aparición Temporizada del Formulario**: El formulario aparece automáticamente en la página después de un breve retraso para captar la atención del usuario.
 4. **Animaciones**: Pequeñas animaciones y efectos visuales para mejorar la interactividad y atractivo de la página.
+   ## Requisitos Previos
+Antes de ejecutar este proyecto, asegúrate de tener lo siguiente:
+1. Un navegador web moderno (Google Chrome, Firefox, Safari, etc.).
+2.Conexión a internet para cargar las bibliotecas externas (Bootstrap, Remix Icons, Animate.css).
+## Cómo Ejecutar el Proyecto Localmente
+1. **Clona el Repositorio**: Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio en tu máquina local:
+   ```bash
+   git clone https://github.com/tu-usuario/
+   Abrir el archivo HTML :
+Puedes abrir el archivo index.htmldirectamente en tu navegador web arrastrándolo o usando el menú de archivo en tu navegador (Abrir archivo).
+   
 - **Información Adicional ARCHIVOS PDF SPRINT1**:
 [blacklog_s1.pdf](https://github.com/user-attachments/files/17610499/blacklog_s1.pdf)
 [Roadmap_s1.pdf](https://github.com/user-attachments/files/17610510/Roadmap_s1.pdf)
